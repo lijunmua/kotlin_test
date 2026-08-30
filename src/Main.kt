@@ -1,4 +1,4 @@
-import kotlin.contracts.contract
+const val HERO_NAME = "Madrigal"
 
 var j = 3
     get() {
